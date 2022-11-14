@@ -1,3 +1,5 @@
+![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/tests/badge.svg)
+
 # TinyTapeout 2 multiplexed counter
 
 A TinyTypeout 2 submission of a circuit that can multiplex four 7-segment-displays in order to count time since reset up to 99 minutes and 59 seconds.
