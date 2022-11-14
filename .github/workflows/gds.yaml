@@ -137,8 +137,8 @@ jobs:
         with:
           name: gate-level-test-results
           path: |
-            /home/runner/work/tt2-4x4-multiply/tt2-4x4-multiply/src/tb.vcd
-            /home/runner/work/tt2-4x4-multiply/tt2-4x4-multiply/src/results.xml
+            /home/runner/work/tt2-multiplexed-counter/tt2-multiplexed-counter/src/tb.vcd
+            /home/runner/work/tt2-multiplexed-counter/tt2-multiplexed-counter/src/results.xml
   svg:
     needs: gltest
     runs-on: ubuntu-latest
