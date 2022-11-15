@@ -27,7 +27,7 @@ project:
 documentation:
   author:       "Tholin"      # Your name
   title:        "TinyTapeout2 multiplexed segment display timer."      # Project title
-  description:  "Measures time up to 99 minutes and 99 seconds by multiplexing 4 seven-segment displays."      # Short description of what your project does
+  description:  "Measures time up to 99 minutes and 59 seconds by multiplexing 4 seven-segment displays."      # Short description of what your project does
   how_it_works: "TODO"      # Longer description of how the project works
   how_to_test:  "TODO"      # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   external_hw:  "4 sevent segment displays, plus some 74-series chips to build the select logic."      # Describe any external hardware needed
