@@ -25,6 +25,7 @@ project:
 #
 # This info will be automatically collected and used to make a datasheet for the chip.
 documentation:
+  discord_username: "Tholin#7559"
   author:       "Tholin"      # Your name
   title:        "TinyTapeout2 multiplexed segment display timer."      # Project title
   description:  "Measures time up to 99 minutes and 59 seconds by multiplexing 4 seven-segment displays."      # Short description of what your project does
